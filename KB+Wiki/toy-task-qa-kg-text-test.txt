@@ -1,0 +1,15 @@
+Test questions:
+
+1	What is the birth place of Tom Hanks ?
+2	Who is married to Tom Cruise ?
+3	What was the occupation of John Travolta ?
+4	How many children did Audrey Hepburn have ? 
+5	Where was Katharine Hepburn born ?
+6	What is the hair color of Ron Howard ?
+7	Who performed as Ron Weasley in the movies? 
+8	Where was Howard Shore educated at ?
+9	Who was the son of John Williams ?
+10	How did Robin Williams die ?
+
+================================================================================
+

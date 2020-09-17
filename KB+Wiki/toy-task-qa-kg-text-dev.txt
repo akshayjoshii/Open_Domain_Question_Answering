@@ -1,0 +1,41 @@
+Wikidata pages: 
+
+1	Tom Hanks: https://www.wikidata.org/wiki/Q2263
+2	Tom Cruise: https://www.wikidata.org/wiki/Q37079
+3	John Travolta: https://www.wikidata.org/wiki/Q80938
+4	Audrey Hepburn: https://www.wikidata.org/wiki/Q42786 
+5	Katharine Hepburn: https://www.wikidata.org/wiki/Q56016 
+6	Ron Howard: https://www.wikidata.org/wiki/Q103646
+7	Ron Weasley: https://www.wikidata.org/wiki/Q173998
+8	Howard Shore: https://www.wikidata.org/wiki/Q207773
+9 	John Williams: https://www.wikidata.org/wiki/Q131285
+10	Robin Williams: https://www.wikidata.org/wiki/Q83338
+
+Wikipedia pages:
+
+1	Tom Hanks: https://en.wikipedia.org/wiki/Tom_Hanks
+2	Tom Cruise: https://en.wikipedia.org/wiki/Tom_Cruise
+3	John Travolta: https://en.wikipedia.org/wiki/John_Travolta
+4	Audrey Hepburn: https://en.wikipedia.org/wiki/Audrey_Hepburn
+5	Katharine Hepburn: https://en.wikipedia.org/wiki/Katharine_Hepburn
+6	Ron Howard: https://en.wikipedia.org/wiki/Ron_Howard
+7	Ron Weasley: https://en.wikipedia.org/wiki/Ron_Weasley
+8	Howard Shore: https://en.wikipedia.org/wiki/Howard_Shore
+9	John Williams: https://en.wikipedia.org/wiki/John_Williams
+10	Robin Williams: https://en.wikipedia.org/wiki/Robin_Williams
+
+Questions:
+
+1	What is the place of birth of Tom Hanks?
+2	What is the number of children of Tom Cruise?
+3	Who are the siblings of Travolta?
+4	What was the name of Hepburn at birth?
+5	Who was the father of Katharine Hepburn?
+6	What is the date of birth of Ron Howard?	
+7	What is the hair color of Ron Weasley?
+8	Who did the soundtrack for Lord of the Rings?
+9	Who composed the score for Harry Potter?
+10	Who was Robin Williams married to?
+
+================================================================================
+
